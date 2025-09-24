@@ -1,0 +1,8 @@
+{
+  "name": "soul-combat-stage",
+  "displayName": "SOUL Combat Stage",
+  "version": "0.1.0",
+  "description": "SOUL Combat Stage - parasite, egg incubation, HUD outputs",
+  "entry": "index.js",
+  "hooks": ["onCommand", "onMessageBefore", "onMessageAfter"]
+}
